@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Lists Example</title>
+</head>
+<body>
+<h1>HTML Lists</h1>
+<!-- Unordered List -->
+<h2>Unordered List</h2>
+<ul>
+<li>Apple</li>
+<li>Banana</li>
+<li>Cherry</li>
+</ul>
+<!-- Ordered List -->
+<h2>Ordered List</h2>
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+</ol>
+<!-- Nested Lists -->
+<h2>Nested List</h2>
+<ul>
+<li>Fruits
+<ul>
+<li>Apple</li>
+<li>Orange</li>
+</ul>
+</li>
+<li>Vegetables
+<ol>
+<li>Carrot</li>
+<li>Broccoli</li>
+</ol>
+</li>
+</ul>
+</body>
+</html>
